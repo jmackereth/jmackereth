@@ -18,37 +18,48 @@
 
 ---
 
-Lead Developer and AI Engineer for Defined Benefit Solutions at [Just Group](https://www.justgroup.com), leading a team building platforms (sadly, in Azure DevOps) for defined benefit pension administration, and many other things. Before this: data scientist at [OceanMind](https://www.oceanmind.global), a not-for-profit using satellite imagery and AIS vessel tracking to detect illegal fishing and labour exploitation at sea. Before that: a postdoc, and before that a PhD in astrophysics.
+Lead Developer and AI Engineer for Defined Benefit Solutions at [Just Group](https://www.wearejust.co.uk/definedbenefit/), leading a team building platforms for defined benefit pension administration, and many other things. Before this: data scientist at [OceanMind](https://www.oceanmind.global), a not-for-profit using satellite imagery and AIS vessel tracking to detect illegal fishing and labour exploitation at sea. Before that: a postdoc, and before that a PhD in astrophysics.
 
 The connecting thread in my work is *finding structure in messy data that matters* — whether that's stellar spectra, fishing vessel behaviour, or the movement history of a pension scheme member.
 
 ---
 
-### `git log --oneline --career`
+### `git log --career`
 
 ```
-HEAD    Lead Developer & AI Engineer, Defined Benefits, Just Group
-        └─ grew the engineering function from scratch
-           building Reef: bitemporal pension admin platform
-           FastAPI · Next.js · Azure SQL · AKS
+commit 4a7d2f1 (HEAD -> main, origin/main)
 
-        Data Scientist, OceanMind (not-for-profit)
-        └─ satellite imagery + AIS vessel tracking
-           → detecting illegal fishing & labour exploitation at sea
+    Lead Developer & AI Engineer · Just Group
 
-        Postdoctoral Research Fellow
-        └─ spectroscopic surveys of stellar populations in the Milky Way
+    Grew the engineering function from scratch.
+    Building Reef: bitemporal pension admin platform.
+    FastAPI · Next.js · Azure SQL · AKS
 
-ROOT    PhD Astrophysics
+commit 9e3b8c2
+
+    Data Scientist · OceanMind (not-for-profit)
+
+    Satellite imagery + AIS vessel tracking.
+    Detecting illegal fishing & labour exploitation at sea.
+
+commit 2f1a4d7
+
+    Postdoctoral Research Fellow
+
+    Spectroscopic surveys of stellar populations in the Milky Way.
+
+commit 0000001 (ROOT)
+
+    PhD Astrophysics
 ```
 
 ---
 
-### Currently transmitting
+### Currently transmitting 📡
 
-**GrubVote** is my side project - a streamlined app that gets groups organised for amazing food.
+🍴 **GrubVote** is my current side project - a streamlined app that gets groups organised for amazing food.
 
-Alongside that: a Team Topologies restructure with 15 engineers, a self-hosted AI assistant on a Hetzner VPS integrated with Home Assistant, and the usual pile of side projects that seem like good ideas at 10pm.
+Alongside that: a Team Topologies restructure of the DB engineering team, a self-hosted OpenClaw AI assistant on a Hetzner VPS integrated with Home Assistant, and the usual pile of side projects that seem like good ideas at 1AM...
 
 ---
 
