@@ -57,7 +57,7 @@ commit 0000001 (ROOT)
 
 ### Currently transmitting 📡
 
-🍴 **GrubVote** is my current side project - a streamlined app that gets groups organised for amazing food.
+🍴 [**GrubVote**](https://grubvote.vercel.app) is my current side project - a streamlined app that gets groups organised for amazing food.
 
 Alongside that: a Team Topologies restructure of the DB engineering team, a self-hosted OpenClaw AI assistant on a Hetzner VPS integrated with Home Assistant, and the usual pile of side projects that seem like good ideas at 1AM...
 
