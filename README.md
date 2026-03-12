@@ -84,19 +84,10 @@ Alongside that: a Team Topologies restructure of the DB engineering team, a self
 
 Based in North Wales. Reasonable espresso, sourdough - the usual. Working up to running in the mountains (bit slow). Interested in AI consciousness in a way that occasionally spills into actual reading rather than just opinions.
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=jmackereth&show_icons=true&theme=transparent&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=e5e7eb&bg_color=0d1117&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmackereth&layout=compact&theme=transparent&hide_border=true&title_color=6366f1&text_color=e5e7eb&bg_color=0d1117&langs_count=6" />
-
-</div>
-
 ---
 
 <div align="center">
 
-*"The cosmos is within us. We are made of star-stuff."* — Carl Sagan
-
-*Also applicable to legacy pension administration systems.*
+*"Keep a little fire burning; however small, however hidden."* — The Road, Cormac McCarthy
 
 </div>
